@@ -10,7 +10,7 @@ Created data where features are 'Order ID', 'Product', 'Quantity Ordered', 'Pric
 *Drop NaN values from DataFrame
 *Removing rows based on a condition
 *Change the type of columns (to_numeric, to_datetime, astype)
-*Once i have cleaned up data a bit, we move the data exploration section. In this section i explore 5 high level business questions related to data:
+*Once i have cleaned up data a bit, we move the data exploration section. In this section i explored 5 high level business questions related to data:
 
 1)What was the best month for sales? How much was earned that month?
 2)What city sold the most product?

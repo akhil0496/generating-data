@@ -1,6 +1,6 @@
 # Generating-Data #
 
-Created data where features are 'Order ID', 'Product', 'Quantity Ordered', 'Price Each',	'Order Date',	'Purchase Address'.
+Created data where features are 'Order ID', 'Product', 'Quantity Ordered', 'Price Each', 'Order Date',	'Purchase Address'.
 
 -> In this i use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
@@ -19,10 +19,10 @@ Created data where features are 'Order ID', 'Product', 'Quantity Ordered', 'Pric
 5)What product sold the most? Why do you think it sold the most?
 To answer these questions i walk through some different pandas & matplotlib methods. They include:
 
-Concatenating multiple csvs together to create a new DataFrame (pd.concat)
-Adding columns
-Parsing cells as strings to make new columns (.str)
-Using the .apply() method
-Using groupby to perform aggregate analysis
-Plotting bar charts and lines graphs to visualize our results
-Labeling graphs
+-Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+-Adding columns
+-Parsing cells as strings to make new columns (.str)
+-Using the .apply() method
+-Using groupby to perform aggregate analysis
+-Plotting bar charts and lines graphs to visualize our results
+-Labeling graphs
